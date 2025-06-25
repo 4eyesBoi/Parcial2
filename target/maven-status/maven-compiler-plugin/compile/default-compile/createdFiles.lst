@@ -1,0 +1,5 @@
+singleton\VolumeManager.class
+singleton\Main.class
+singleton\UserSession.class
+singleton\MusicPlayer.class
+singleton\PlaybackQueue.class
